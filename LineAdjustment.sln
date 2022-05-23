@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAdjustment", "LineAdjustment\LineAdjustment.csproj", "{38480A0E-054B-493A-AD20-808EE4B5A478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAdjustment.Tests", "LineAdjustment.Tests\LineAdjustment.Tests.csproj", "{BF3F00DA-F83B-44AE-91A2-E90882510D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38480A0E-054B-493A-AD20-808EE4B5A478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38480A0E-054B-493A-AD20-808EE4B5A478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38480A0E-054B-493A-AD20-808EE4B5A478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38480A0E-054B-493A-AD20-808EE4B5A478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3F00DA-F83B-44AE-91A2-E90882510D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3F00DA-F83B-44AE-91A2-E90882510D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3F00DA-F83B-44AE-91A2-E90882510D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3F00DA-F83B-44AE-91A2-E90882510D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
